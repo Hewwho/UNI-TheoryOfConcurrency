@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c54f4396-4f21-4d50-8b04-2931c034f791" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>emptyCondition</find>
+      <find>whaa</find>
+      <find>uwaga</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>conditionEmpty</replace>
+    </replaceStrings>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="y" value="421" />
+    <option name="width" value="1750" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectId" id="1bBX5oW22brRMl8S5mBFQfpVwvO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588106211602" />
+    <property name="last_opened_file_path" value="D:/PobraneChrome/lab-gui-1/to-javafx-1" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RunnerAsync">
+    <configuration name="RunnerAsync" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Async.Runner" />
+      <module name="ActiveObject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerSync" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Sync.Runner" />
+      <module name="ActiveObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sync.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RunnerAsync" />
+      <item itemvalue="Application.RunnerSync" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunnerAsync" />
+        <item itemvalue="Application.RunnerSync" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c54f4396-4f21-4d50-8b04-2931c034f791" name="Default Changelist" comment="" />
+      <created>1573584074491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573584074491</updated>
+      <workItem from="1588106281439" duration="80000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="178" key="GridCell.Tab.0.bottom" timestamp="1588106361384">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="178" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1588106361384" />
+    <state width="1493" height="178" key="GridCell.Tab.0.center" timestamp="1588106361384">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="178" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1588106361384" />
+    <state width="1493" height="178" key="GridCell.Tab.0.left" timestamp="1588106361384">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="178" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1588106361384" />
+    <state width="1493" height="178" key="GridCell.Tab.0.right" timestamp="1588106361384">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="178" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1588106361384" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>AO</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
